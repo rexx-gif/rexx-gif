@@ -31,13 +31,13 @@
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" width="90%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg" width="90%">
   </picture>
-</div> -->
+</div>
 
 <br>
 
@@ -63,12 +63,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=Profile%20Views&color=6E45E2&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg">
-  </picture>
 </div>
