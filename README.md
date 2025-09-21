@@ -25,12 +25,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&theme=nightowl&bg_color=1a1a2e&hide_border=true&area=true&hide_title=true" width="90%" />
-</div>
-
-<br>
-
 <br>
 
 <div align="center">
@@ -46,6 +40,9 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=Profile%20Views&color=6E45E2&style=flat" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/KJmBi3q.jpeg" alt="Septiyan Bintang Ramadhan Putra" width="300" style="border-radius: 10px;" />
@@ -54,15 +51,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=Profile%20Views&color=6E45E2&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg" width="90%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&theme=nightowl&bg_color=1a1a2e&hide_border=true&area=true&hide_title=true" width="90%" />
 </div>
 
 <div align="center">
