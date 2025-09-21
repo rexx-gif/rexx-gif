@@ -1,27 +1,66 @@
-<h1 align="center">Hi 👋, I'm Septiyan Bintang Ramadhan Putra</h1>
-<h3 align="center">I am a grade 11 student of SMKN 1 Bondowoso</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=6E45E2&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+everyone;I'm+Septiyan+Bintang+Ramadhan+Putra;From+SMKN+1+Bondowoso;Grade+11+RPL+2;Let's+work+together;Thank+you+for+visiting!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=Profile%20views&color=0e75b6&style=flat" alt="rexx-gif" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rexx-gif" alt="rexx-gif" /></a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,dart,flutter,flask,python,mysql,git,github,vscode" />
+</div>
 
-- 🌱 I’m currently learning **Laravel & Flutter**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://ucn-id.netlify.app/,https://schoolfest.netlify.app/](https://ucn-id.netlify.app/,https://schoolfest.netlify.app/)
+<div align="center">
+  <a href="https://github.com/rexx-gif">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_title=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=midnight-purple&hide_title=true" />
+  </a>
+</div>
 
-- 📫 How to reach me **septiyanbintangramadhanputra@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rexxlielll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rexxlielll" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexx-gif&theme=midnight-purple&hide_border=true" width="48%" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexx-gif&show_icons=true&locale=en&layout=compact" alt="rexx-gif" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&theme=nightowl&bg_color=1a1a2e&hide_border=true&area=true&hide_title=true" width="90%" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&locale=en" alt="rexx-gif" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexx-gif&" alt="rexx-gif" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" width="90%">
+  </picture>
+</div>
 
+<br>
+
+<div align="center">
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rexx-gif">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/KJmBi3q.jpeg" alt="Septiyan Bintang Ramadhan Putra" width="300" style="border-radius: 10px;" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=Profile%20Views&color=6E45E2&style=flat" alt="Profile Views" />
+</div>
