@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=6E45E2&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+everyone;I'm+Septiyan+Bintang+Ramadhan+Putra;From+SMKN+1+Bondowoso;Grade+11+RPL+2;Let's+work+together;Thank+you+for+visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=00ff0&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+everyone;I'm+Septiyan+Bintang+Ramadhan+Putra;From+SMKN+1+Bondowoso;Grade+11+RPL+2;Let's+work+together;Thank+you+for+visiting!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -31,14 +31,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg" width="90%">
-  </picture>
-</div>
-
 <br>
 
 <div align="center">
@@ -63,4 +55,16 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=Profile%20Views&color=6E45E2&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/pacman-contribution-graph.svg" width="90%">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/snake.svg" alt="Snake animation" />
 </div>
