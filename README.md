@@ -1,69 +1,68 @@
 <div align="center">
-  <!-- header melengkung dinamis dengan gradien neon -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,15,30&height=220&section=header&text=putra's%20digital%20lab&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=smk%20rpl%20%7C%20full-stack%20%7C%20iot%20%7C%20ubuntu%20user&descAlignY=55&descSize=15" width="100%"/>
-</div>
 
-<div align="center">
-  <!-- typing text ala terminal hacker/cyberpunk -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Laravel+Framework;Initializing+ESP32+Sensors;Welcome+To+My+GitHub!" alt="Typing SVG" />
-</div>
+<!-- header typography -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=5000&color=ffffff&center=true&vCenter=true&width=600&lines=putra.;software+engineer.;system+builder." alt="Header" />
 
-<div align="center">
-  <!-- badge sosial & status dengan warna ngejreng (chunky style) -->
-  <a href="https://putra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/UBUNTU_26-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge&logo=riotgames&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=VISITORS&color=00FF9D&style=for-the-badge" alt="Profile Views" />
+<br><br>
+
+<!-- minimalist badges -->
+<a href="https://putra-portfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=vercel&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="https://github.com/rexx-gif"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
+<a href="mailto:emailmu@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=mail.ru&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=mail.ru&logoColor=000000" alt="Email"/></picture></a>
+
 </div>
 
 <br><br>
 
-<div align="center">
-  <h3>🛠️ tech & tools arsenal</h3>
-  <!-- grid icon super padat (di-set 10 icon per baris biar rame kaya di ss lu) -->
+### `01 — whoami`
+
+> **putra** / 17 / smk software engineering student based in indonesia.
+> focused on building scalable backends, responsive mobile apps, and tinkering with hardware. 
+> surviving daily inside the ubuntu 26 terminal ecosystem.
+
+<br>
+
+### `02 — system stack`
+
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,python,js,tailwind,html,css,nodejs,mysql,postgres,ubuntu,linux,bash,git,github,vscode,figma,arduino,raspberrypi,discord&perline=10&theme=dark" />
+    <!-- icon dibikin deret bersih -->
+    <img src="https://skillicons.dev/icons?i=ubuntu,bash,laravel,php,flutter,dart,postgres,python,arduino,figma,tailwind,vscode&theme=dark" alt="Technical Stack" />
   </a>
 </div>
 
 <br><br>
 
-<div align="center">
-  <h3>📈 github 3D matrix</h3>
-  <!-- grafik commit 3d, jauh lebih anti-mainstream daripada grafik kotak/pacman biasa -->
-  <img src="https://github-readme-3d-contrib.vercel.app/api?user=rexx-gif&theme=toxic&bg_color=0D1117" alt="3D stats" width="100%" />
-</div>
-
-<br>
+### `03 — telemetry & stats`
 
 <div align="center">
-  <h3>🔥 stats & streaks</h3>
-  <!-- tabel stats dibikin tema dracula (high contrast) biar nyala -->
-  <table border="0" align="center" style="background-color: transparent;">
+
+  <!-- stats github dibikin full monokrom (putih/abu) tanpa background biar nyatu kaya SVG custom -->
+  <table border="0" style="background-color: transparent;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&ring_color=ffffff" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
-  
+
   <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexx-gif&theme=dracula&hide_border=true" alt="GitHub Streak" width="100%" />
+
+  <!-- activity graph dibikin gaya telemetry (garis putih, area putih transparan, tanpa border) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="Contribution Telemetry" />
+
 </div>
 
 <br><br>
 
-<div align="center">
-  <h3>🏆 achievements</h3>
-  <!-- deretan trophy biar nambah kesan "gaming" -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rexx-gif&theme=dracula&no-frame=true&row=2&column=4&margin-w=15" alt="GitHub Trophy" width="100%" />
-</div>
+### `04 — the route`
 
-<!-- footer penutup -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,15,30&height=100&section=footer" width="100%"/>
-</div>
+```bash
+~ $ cat current_tasks.log
+
+[+] slicing custom reusable ui widgets in flutter
+[+] bridging mobile apps to laravel + postgresql backend
+[+] experimenting with esp32 & micropython for iot
