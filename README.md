@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- header typography (blue neon) -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=5000&color=00C8FF&center=true&vCenter=true&width=600&lines=septiyan binang ramadhan putra.;software+engineer.;mobile+%26+backend_dev." alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=5000&color=00C8FF&center=true&vCenter=true&width=600&lines=septiyan;bintang;ramadhan; putra.;software+engineer.;mobile+%26+backend_dev." alt="Header" />
 
 <br>
 
