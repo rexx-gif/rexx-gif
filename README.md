@@ -6,16 +6,9 @@
 <br><br>
 
 <!-- minimalist badges -->
-<a href="https://putra-portfolio.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=00c8ff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=vercel&logoColor=007acc" alt="Portfolio"/></picture></a>
-<a href="https://github.com/rexx-gif"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=00c8ff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=007acc" alt="GitHub"/></picture></a>
-<a href="mailto:emailmu@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=mail.ru&logoColor=00c8ff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=mail.ru&logoColor=007acc" alt="Email"/></picture></a>
-
-<br><br>
-
-<!-- spotify playing / recent -->
-<a href="https://open.spotify.com/user/31a2b3crandom123">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00c8ff&bar_color_cover=false&background_color=00000000" alt="spotify recent/now playing" />
-</a>
+<a href="https://putra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=00c8ff" alt="Portfolio"/></a>
+<a href="https://github.com/rexx-gif"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=00c8ff" alt="GitHub"/></a>
+<a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=mail.ru&logoColor=00c8ff" alt="Email"/></a>
 
 </div>
 
@@ -31,7 +24,7 @@
 
 ### `02 — system stack`
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <!-- icon dibikin deret bersih tanpa IoT/Arduino -->
     <img src="https://skillicons.dev/icons?i=ubuntu,bash,laravel,php,flutter,dart,postgres,python,figma,tailwind,vscode,git&theme=dark" alt="Technical Stack" />
@@ -44,32 +37,28 @@
 
 <div align="center">
 
-  <!-- trophies (blue theme) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rexx-gif&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=15" width="100%" alt="Trophies" />
+  <!-- trophies (ukuran native, dihapus script lebarnya) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rexx-gif&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
   
   <br><br>
 
-  <!-- stats github (transparent bg, blue neon text/icons) -->
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&ring_color=00c8ff" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- streak commit (transparent bg, blue accents) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexx-gif&hide_border=true&background=00000000&ring=00c8ff&fire=007acc&currStreakNum=ffffff&currStreakLabel=c9d1d9&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9" width="100%" alt="GitHub Streak" />
+  <!-- stats github (dibikin sejajar pake spacing biasa, tag table dihapus biar ga di-block github) -->
+  <a href="https://github.com/rexx-gif">
+    <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&ring_color=00c8ff" alt="GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/rexx-gif">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9" alt="Top Languages" height="195" />
+  </a>
 
   <br><br>
 
-  <!-- activity graph gaya telemetry (garis biru neon, area transparan) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&bg_color=00000000&color=00c8ff&line=007acc&point=ffffff&area_color=007acc&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="Contribution Telemetry" />
+  <!-- streak commit (ukuran native) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexx-gif&hide_border=true&background=00000000&ring=00c8ff&fire=007acc&currStreakNum=ffffff&currStreakLabel=c9d1d9&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- activity graph gaya telemetry (ukuran native) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&bg_color=00000000&color=00c8ff&line=007acc&point=ffffff&area_color=007acc&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" alt="Contribution Telemetry" />
 
 </div>
 
