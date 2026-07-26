@@ -9,7 +9,7 @@
 <a href="https://putra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=00C8FF" alt="Portfolio"/></a>
 <a href="https://github.com/rexx-gif"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=00C8FF" alt="GitHub"/></a>
 <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=00C8FF" alt="Email"/></a>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID"><img src="https://img.shields.io/badge/SPOTIFY_PLAYLIST-0d1117?style=flat-square&logo=spotify&logoColor=1ED760" alt="Spotify"/></a>
+<a href="https://open.spotify.com/user/31xkqlpqcm7mofwxpt2dui6clgbu"><img src="https://img.shields.io/badge/SPOTIFY-0d1117?style=flat-square&logo=spotify&logoColor=1ED760" alt="Spotify"/></a>
 
 </div>
 
@@ -43,8 +43,8 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC&ring_color=00C8FF" height="195" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC&ring_color=00C8FF&cache_seconds=3600" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&cache_seconds=3600" height="195" alt="Top Languages" />
 
 <br><br>
 
@@ -76,6 +76,10 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<br><br>
+
+<a href="https://open.spotify.com/user/31xkqlpqcm7mofwxpt2dui6clgbu"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31xkqlpqcm7mofwxpt2dui6clgbu&unique=true" alt="Spotify Recently Played" /></a>
 
 <br><br>
 
