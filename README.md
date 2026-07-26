@@ -13,7 +13,7 @@
 <br><br>
 
 <!-- spotify playing / recent -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+<a href="https://open.spotify.com/user/31a2b3crandom123">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00c8ff&bar_color_cover=false&background_color=00000000" alt="spotify recent/now playing" />
 </a>
 
