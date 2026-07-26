@@ -11,6 +11,13 @@
 <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=00C8FF" alt="Email"/></a>
 <a href="https://open.spotify.com/user/31xkqlpqcm7mofwxpt2dui6clgbu"><img src="https://img.shields.io/badge/SPOTIFY-0d1117?style=flat-square&logo=spotify&logoColor=1ED760" alt="Spotify"/></a>
 
+<br>
+
+<a href="https://instagram.com/rexxkielll"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=00C8FF" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/septiyan-bintang-ramadhan-putra"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=00C8FF" alt="LinkedIn"/></a>
+<a href="https://www.tiktok.com/@putrarawr07"><img src="https://img.shields.io/badge/TIKTOK-0d1117?style=flat-square&logo=tiktok&logoColor=00C8FF" alt="TikTok"/></a>
+<img src="https://img.shields.io/badge/DISCORD-putrarawr._-0d1117?style=flat-square&logo=discord&logoColor=00C8FF" alt="Discord"/>
+
 </div>
 
 <br>
@@ -46,27 +53,31 @@
 
 <div align="center">
 
-<a href="https://github.com/rexx-gif/PKL-POS"><b>PKL-POS</b></a> — <sub>Project POS PKL</sub><br>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00C8FF" />
-<img src="https://img.shields.io/github/stars/rexx-gif/PKL-POS?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+<a href="https://github.com/rexx-gif/PKL-POS"><b>PKL-POS</b></a> <sub>· Project POS PKL</sub>
+<br>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/PKL-POS?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=STARS" />
 
 <br><br>
 
-<a href="https://github.com/rexx-gif/new-portfolio"><b>new-portfolio</b></a> — <sub>Personal portfolio site</sub><br>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00C8FF" />
-<img src="https://img.shields.io/github/stars/rexx-gif/new-portfolio?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+<a href="https://github.com/rexx-gif/new-portfolio"><b>new-portfolio</b></a> <sub>· Personal portfolio site</sub>
+<br>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/new-portfolio?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=STARS" />
 
 <br><br>
 
-<a href="https://github.com/rexx-gif/scraping-cafe"><b>scraping-cafe</b></a> — <sub>Web scraping tool</sub><br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00C8FF" />
-<img src="https://img.shields.io/github/stars/rexx-gif/scraping-cafe?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+<a href="https://github.com/rexx-gif/scraping-cafe"><b>scraping-cafe</b></a> <sub>· Web scraping tool</sub>
+<br>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/scraping-cafe?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=STARS" />
 
 <br><br>
 
-<a href="https://github.com/rexx-gif/warung-om-uyung"><b>warung-om-uyung</b></a> — <sub>Community hangout site</sub><br>
-<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00C8FF" />
-<img src="https://img.shields.io/github/stars/rexx-gif/warung-om-uyung?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+<a href="https://github.com/rexx-gif/warung-om-uyung"><b>warung-om-uyung</b></a> <sub>· Community hangout site</sub>
+<br>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/warung-om-uyung?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=STARS" />
 
 <br><br>
 
