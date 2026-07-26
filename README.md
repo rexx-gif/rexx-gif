@@ -42,26 +42,31 @@
 
 <br>
 
-### `03 — telemetry & repos`
+### `03 — telemetry & stats`
 
 <div align="center">
 
-<!-- Pinned Repos menggunakan GitHub Stats API -->
-<a href="https://github.com/rexx-gif/PKL-POS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=PKL-POS&theme=transparent&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&border_color=007acc&show_icons=true" width="48%" />
-</a>
-<a href="https://github.com/rexx-gif/new-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=new-portfolio&theme=transparent&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&border_color=007acc&show_icons=true" width="48%" />
-</a>
+<a href="https://github.com/rexx-gif/PKL-POS"><b>PKL-POS</b></a> — <sub>Project POS PKL</sub><br>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/PKL-POS?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
 
 <br><br>
 
-<a href="https://github.com/rexx-gif/scraping-cafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=scraping-cafe&theme=transparent&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&border_color=007acc&show_icons=true" width="48%" />
-</a>
-<a href="https://github.com/rexx-gif/warung-om-uyung">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=warung-om-uyung&theme=transparent&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&border_color=007acc&show_icons=true" width="48%" />
-</a>
+<a href="https://github.com/rexx-gif/new-portfolio"><b>new-portfolio</b></a> — <sub>Personal portfolio site</sub><br>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/new-portfolio?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+
+<br><br>
+
+<a href="https://github.com/rexx-gif/scraping-cafe"><b>scraping-cafe</b></a> — <sub>Web scraping tool</sub><br>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/scraping-cafe?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+
+<br><br>
+
+<a href="https://github.com/rexx-gif/warung-om-uyung"><b>warung-om-uyung</b></a> — <sub>Community hangout site</sub><br>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/warung-om-uyung?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
 
 <br><br>
 
@@ -89,3 +94,29 @@
 [+] bridging mobile apps to laravel + postgresql backend
 [+] fixing infinite recursion bugs in widget architecture
 [+] pushing rank mobile legends (ml) when stuck on bugs
+```
+
+<br>
+
+### `05 — signal`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<br><br>
+
+<a href="https://open.spotify.com/user/31xkqlpqcm7mofwxpt2dui6clgbu"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31xkqlpqcm7mofwxpt2dui6clgbu&unique=true" alt="Spotify Recently Played" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rexx-gif&label=PROFILE+VIEWS&color=0d1117&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rexx-gif?label=FOLLOWERS&style=flat-square&color=0d1117&logoColor=00C8FF" alt="Followers" />
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>connection closed — <code>exit 0</code></sub>
+</div>
