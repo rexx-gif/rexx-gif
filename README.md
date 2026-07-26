@@ -28,8 +28,15 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ubuntu,bash,laravel,php,flutter,dart,postgres,python,figma,tailwind,vscode,git&theme=dark" alt="Technical Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,nodejs,npm,ubuntu,robloxstudio,mysql,postgres,git,flutter,dart,py&theme=dark" alt="Technical Stack" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Firefox-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" alt="Firefox" />
+<img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logoColor=00C8FF" alt="Antigravity" />
 
 </div>
 
@@ -50,11 +57,6 @@
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC&ring_color=00C8FF&cache_seconds=3600" height="195" alt="GitHub Stats" />
-
-<br><br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <br><br>
 
