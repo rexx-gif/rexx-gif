@@ -39,12 +39,22 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rexx-gif&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+<a href="https://github.com/rexx-gif/PKL-POS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=PKL-POS&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC" /></a>
+<a href="https://github.com/rexx-gif/new-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=new-portfolio&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC" /></a>
+
+<br>
+
+<a href="https://github.com/rexx-gif/scraping-cafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=scraping-cafe&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC" /></a>
+<a href="https://github.com/rexx-gif/warung-om-uyung"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rexx-gif&repo=warung-om-uyung&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC" /></a>
 
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&icon_color=007ACC&ring_color=00C8FF&cache_seconds=3600" height="195" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=c9d1d9&cache_seconds=3600" height="195" alt="Top Languages" />
+
+<br><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br><br>
 
