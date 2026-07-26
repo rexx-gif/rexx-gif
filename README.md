@@ -9,6 +9,8 @@
 <a href="https://putra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=00c8ff" alt="Portfolio"/></a>
 <a href="https://github.com/rexx-gif"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=00c8ff" alt="GitHub"/></a>
 <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=mail.ru&logoColor=00c8ff" alt="Email"/></a>
+<!-- link playlist spotify lu -->
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID"><img src="https://img.shields.io/badge/SPOTIFY_PLAYLIST-0d1117?style=flat-square&logo=spotify&logoColor=1ED760" alt="Spotify"/></a>
 
 </div>
 
@@ -37,27 +39,23 @@
 
 <div align="center">
 
-  <!-- trophies (ukuran native, dihapus script lebarnya) -->
+  <!-- trophies (dijamin nongol, tag a dihapus) -->
   <img src="https://github-profile-trophy.vercel.app/?username=rexx-gif&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
   
   <br><br>
 
-  <!-- stats github (dibikin sejajar pake spacing biasa, tag table dihapus biar ga di-block github) -->
-  <a href="https://github.com/rexx-gif">
-    <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&ring_color=00c8ff" alt="GitHub Stats" height="195" />
-  </a>
-  <a href="https://github.com/rexx-gif">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9" alt="Top Languages" height="195" />
-  </a>
+  <!-- stats & top languages (dijamin nongol, ga dibungkus tag a) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rexx-gif&show_icons=true&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9&icon_color=007acc&ring_color=00c8ff" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexx-gif&layout=compact&theme=transparent&hide_border=true&title_color=00c8ff&text_color=c9d1d9" height="195" alt="Top Languages" />
 
   <br><br>
 
-  <!-- streak commit (ukuran native) -->
+  <!-- streak commit -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexx-gif&hide_border=true&background=00000000&ring=00c8ff&fire=007acc&currStreakNum=ffffff&currStreakLabel=c9d1d9&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
   <br><br>
 
-  <!-- activity graph gaya telemetry (ukuran native) -->
+  <!-- activity graph gaya telemetry -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rexx-gif&bg_color=00000000&color=00c8ff&line=007acc&point=ffffff&area_color=007acc&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" alt="Contribution Telemetry" />
 
 </div>
