@@ -46,42 +46,32 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/rexx-gif/PKL-POS"><b>PKL-POS</b></a><br>
-<sub>Project POS PKL</sub><br>
-<img src="https://img.shields.io/github/languages/top/rexx-gif/PKL-POS?style=flat-square&color=00C8FF&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/rexx-gif/PKL-POS?style=flat-square&color=00C8FF&labelColor=0d1117" />
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/rexx-gif/new-portfolio"><b>new-portfolio</b></a><br>
-<sub>Personal portfolio site</sub><br>
-<img src="https://img.shields.io/github/languages/top/rexx-gif/new-portfolio?style=flat-square&color=00C8FF&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/rexx-gif/new-portfolio?style=flat-square&color=00C8FF&labelColor=0d1117" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/rexx-gif/scraping-cafe"><b>scraping-cafe</b></a><br>
-<sub>Web scraping tool</sub><br>
-<img src="https://img.shields.io/github/languages/top/rexx-gif/scraping-cafe?style=flat-square&color=00C8FF&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/rexx-gif/scraping-cafe?style=flat-square&color=00C8FF&labelColor=0d1117" />
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/rexx-gif/warung-om-uyung"><b>warung-om-uyung</b></a><br>
-<sub>Community hangout site</sub><br>
-<img src="https://img.shields.io/github/languages/top/rexx-gif/warung-om-uyung?style=flat-square&color=00C8FF&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/rexx-gif/warung-om-uyung?style=flat-square&color=00C8FF&labelColor=0d1117" />
-</td>
-</tr>
-</table>
+<a href="https://github.com/rexx-gif/PKL-POS"><b>PKL-POS</b></a> — <sub>Project POS PKL</sub><br>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/PKL-POS?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+
+<br><br>
+
+<a href="https://github.com/rexx-gif/new-portfolio"><b>new-portfolio</b></a> — <sub>Personal portfolio site</sub><br>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/new-portfolio?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+
+<br><br>
+
+<a href="https://github.com/rexx-gif/scraping-cafe"><b>scraping-cafe</b></a> — <sub>Web scraping tool</sub><br>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/scraping-cafe?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
+
+<br><br>
+
+<a href="https://github.com/rexx-gif/warung-om-uyung"><b>warung-om-uyung</b></a> — <sub>Community hangout site</sub><br>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00C8FF" />
+<img src="https://img.shields.io/github/stars/rexx-gif/warung-om-uyung?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00C8FF&label=" />
 
 <br><br>
 
 <img src="https://img.shields.io/github/followers/rexx-gif?style=for-the-badge&color=00C8FF&labelColor=0d1117&label=FOLLOWERS" />
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00C8FF&labelColor=0d1117&label=PUBLIC%20REPOS&query=public_repos&url=https://api.github.com/users/rexx-gif" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00C8FF&labelColor=0d1117&label=STARS%20EARNED&query=sum([*].stargazers_count)&url=https://api.github.com/users/rexx-gif/repos" />
 
 <br><br>
 
