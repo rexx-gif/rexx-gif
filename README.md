@@ -96,47 +96,28 @@
 
 <br>
 
-### `04 — the route`
+### `04 — status`
 
-```bash
-~ $ cat current_tasks.log
-
+```txt
 [+] slicing custom reusable ui widgets in flutter
 [+] bridging mobile apps to laravel + postgresql backend
 [+] fixing infinite recursion bugs in widget architecture
 [+] pushing rank mobile legends (ml) when stuck on bugs
+```
 
- ### `05 — signal`
-
+### `05 — signal`
 
 <div align="center">
-
-
 <img src="https://raw.githubusercontent.com/rexx-gif/rexx-gif/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-
 <br><br>
-
-
 <a href="https://open.spotify.com/user/31xkqlpqcm7mofwxpt2dui6clgbu"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31xkqlpqcm7mofwxpt2dui6clgbu&unique=true" alt="Spotify Recently Played" /></a>
-
-
 <br><br>
-
-
 <img src="https://komarev.com/ghpvc/?username=rexx-gif&label=PROFILE+VIEWS&color=0d1117&style=flat-square" alt="Profile Views" />
-
 <img src="https://img.shields.io/github/followers/rexx-gif?label=FOLLOWERS&style=flat-square&color=0d1117&logoColor=00C8FF" alt="Followers" />
-
-
 </div>
-
 
 <br>
 
-
 <div align="center">
-
 <sub>connection closed — <code>exit 0</code></sub>
-
-</div> 
+</div>
